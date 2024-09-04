@@ -18,7 +18,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-api_key="Your_api_key"
+api_key="your_api_key_here"
 
 poema_input = st.text_area("Ingresa tu obra preferida", height=100)
 
