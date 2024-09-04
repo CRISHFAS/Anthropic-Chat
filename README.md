@@ -53,7 +53,12 @@ Generación de resúmenes: Mediante la función call_claude, se envía la consul
 Interacción continua: La aplicación no solo ofrece resúmenes, sino que también pregunta al usuario si desea explorar más obras, fomentando la interacción continua
 
 ### Puedes probar la aplicación en el siguiente enlace:
-Aquí puedes ver un video que muestra el funcionamiento de la aplicación: [Ver Video de Demostración](./media/demo.mp4)
+Aquí puedes ver un video que muestra el funcionamiento de la aplicación: 
+
+<video width="640" height="360" controls>
+  <source src="./media/demo.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
 
 Si deseas, puedes agregar nuevas características o mejorar el código, por favor abre un pull request.
 
