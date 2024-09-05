@@ -50,10 +50,7 @@ La aplicación mostrará un resumen interpretado de la obra ingresada.
 
 Interfaz amigable: La aplicación presenta una interfaz limpia con un diseño en gradiente que destaca el título.
 Generación de resúmenes: Mediante la función call_claude, se envía la consulta del usuario a la API de Anthropic y se transmite la respuesta a la interfaz de Streamlit.
-Interacción continua: La aplicación no solo ofrece resúmenes, sino que también pregunta al usuario si desea explorar más obras, fomentando la interacción continua
-
-#### [Ver Demo](https://app.gemoo.com/share/home?codeId=v6B0rbWdJWgjL)
-
+Interacción continua: La aplicación no solo ofrece resúmenes, sino que también pregunta al usuario si desea explorar más obras, fomentando la interacción continua  #### [Ver Demo](https://app.gemoo.com/share/home?codeId=v6B0rbWdJWgjL)
 
 Si deseas, puedes agregar nuevas características o mejorar el código, por favor abre un pull request.
 
